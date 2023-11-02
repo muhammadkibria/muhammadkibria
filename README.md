@@ -22,7 +22,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Md.+Midul+Hosen&sca_esv=578722268&sxsrf=AM9HkKll6CMGwiUnYrK9N70QBkSYC3onFQ%3A1698899524594&ei=RCZDZffhI-Ws4-EPk5i2iAg&ved=0ahUKEwj3k7D1vaSCAxVl1jgGHROMDYEQ4dUDCBA&uact=5&oq=Md.+Midul+Hosen&gs_lp=Egxnd3Mtd2l6LXNlcnAiD01kLiBNaWR1bCBIb3NlbjIEECMYJ0iVVFDrCFi_UXAGeACQAQCYAZgBoAHJBqoBAzEuNrgBA8gBAPgBAfgBAqgCFMICCBAAGKIEGLADwgIFEAAYogTCAgcQIxiwAhgnwgIHECMY6gIYJ8ICFhAAGAMYjwEY5QIY6gIYtAIYjAPYAQHCAhYQLhgDGI8BGOUCGOoCGLQCGIwD2AEB4gMEGAEgQYgGAZAGAroGBggBEAEYCw&sclient=gws-wiz-serp">「 Google Me 」</a>
     <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&random=false&width=435&lines=A+Front-End+Developer+And+WordPress+Expert;4%2B+years+of+programming+experience;Always+excited+to+learn+new+things" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&random=false&width=435&lines=A+Front-End+Developer+And+WordPress+Expert;3%2B+years+of+programming+experience;Always+excited+to+learn+new+things" alt="Typing SVG" /></a>
     <br>
     <br>
   </samp>
