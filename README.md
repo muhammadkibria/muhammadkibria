@@ -66,7 +66,7 @@
 <br/>
 <br/>
 
-![Mridul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmidulhosen&show_icons=true&theme=radical)
+
 
 ## Use To Code
 
@@ -111,7 +111,6 @@
 
 
 ![Md. Midul Hosen's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdmidulhosen&custom_title=Md%20Midul%20Hosen's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
 <br/>
 <hr/>
 <br/>
