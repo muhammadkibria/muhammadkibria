@@ -58,7 +58,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- ✉️ &emsp; <span style="font-weight: 900">Mail:</span> muhammadmridulhosenkibria@gmail.com<br/><br/>
+ ✉️ &emsp; <span style="font-weight: 900">Mail:</span> muhammadmridulhosenkibria+github@gmail.com<br/><br/>
 
 </p>
 
