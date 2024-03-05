@@ -44,7 +44,7 @@
  <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="muhammadkibria" />
  </a> 
- <a href="#" target="_blank">
+ <a href="https://m.facebook.com/people/Muhammad-Mridul-Hosen-Kibria/100023358560236/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="muhammadkibria"  />
   </a> 
 </p>
