@@ -32,7 +32,7 @@
  <a href="https://muhammadkibria.xyz" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="muhammadkibria" />
  </a>
- <a href="#" target="_blank">
+ <a href="https://www.linkedin.com/in/md-midul-hosen-747358224/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammadkibria"/>
  </a>
  <!-- <a href="#" target="_blank">
